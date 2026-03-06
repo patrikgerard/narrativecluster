@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model checkpoints / data (likely large)
+checkpoints/
+annotation_inputs/
+*.parquet
+*.npy
+*.index
+
+# OS
+.DS_Store
