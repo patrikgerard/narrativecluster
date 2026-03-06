@@ -53,7 +53,7 @@ pip install "narrativecluster[gpu]"
 From source:
 
 ```bash
-git clone https://github.com/yourorg/narrativecluster
+git clone https://github.com/patrikgerard/narrativecluster
 cd narrativecluster
 pip install -e ".[dev]"
 ```
