@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "narrativecluster"
-version = "0.1.1"
+version = "0.1.7"
 description = "Claim-level narrative clustering with HNSW + Leiden + neighbor-vote assignment"
 readme = "README.md"
 license = { text = "MIT" }
